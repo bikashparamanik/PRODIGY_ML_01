@@ -23,5 +23,5 @@ To run this project locally or integrate it into your own applications, follow t
 
 1. Clone the repository:
 
-   ```shell
-   git clone https://github.com/yourusername/house-price-prediction.git
+   ```shell git clone 
+   git clone https://github.com/bikashparamanik/PRODIGY_ML/01.git
